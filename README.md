@@ -1,2 +1,2 @@
 Launch the .exe file in dist folder.
-Use the program to found the books thourgh a quote.
+Use the program to find the books thourgh a quote.
